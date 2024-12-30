@@ -1,0 +1,3 @@
+[submodule "Source-Code/mlc-llm"]
+	path = Source-Code/mlc-llm
+	url = git@github.com:Tinytron/mlc-llm.git
